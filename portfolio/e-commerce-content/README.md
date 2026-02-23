@@ -3,8 +3,10 @@
 This project demonstrates my ability to transform a standard technical product listing into a high-converting, professional landing page using custom **HTML5** and **CSS3**.
 
 ### 📸 Visual Presentation
-| :---: | :---: |
-| ![Product Preview](preview.png) | ![Live Result](result.png) |
+<div align="center">
+  <img src="preview.png" width="45%" alt="Product Photo">
+  <img src="result.png" width="45%" alt="Live Result">
+</div>
 
 ### 🛠 Technical Implementation & SEO
 For this case, I developed a custom framework for technical products (HVAC/R sector) that ensures data clarity and mobile responsiveness.
