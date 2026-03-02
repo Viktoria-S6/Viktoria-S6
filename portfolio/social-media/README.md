@@ -9,7 +9,7 @@ This section demonstrates my work in managing professional social media presence
 
 ### 📸 Visual Presentation
 <div align="center">
-  <img src="post1.png" width="600" alt="Expert Post Screenshot">
+  <img src="Post1.png" width="600" alt="Expert Post Screenshot">
 </div>
 
 ### 📈 Strategy & Implementation
@@ -27,7 +27,7 @@ This section demonstrates my work in managing professional social media presence
 
 ### 📸 Visual Presentation
 <div align="center">
-  <img src="post2.png" width="600" alt="Quiz Post Screenshot">
+  <img src="Post2.png" width="600" alt="Quiz Post Screenshot">
 </div>
 
 ### 📈 Strategy & Implementation
@@ -42,7 +42,7 @@ This section demonstrates my work in managing professional social media presence
 
 ### 📸 Visual Presentation
 <div align="center">
-  <img src="post3.png" width="600" alt="Holiday Post Screenshot">
+  <img src="Post3.png" width="600" alt="Holiday Post Screenshot">
 </div>
 
 ### 📈 Strategy & Implementation
